@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.1" orientation="orthogonal" renderorder="right-down" width="65" height="65" tilewidth="32" tileheight="32" infinite="0" nextlayerid="5" nextobjectid="1">
+ <tileset firstgid="1" name="Grass Bäume" tilewidth="32" tileheight="32" tilecount="850" columns="25">
+  <image source="../Documents/Tilesets/WorkAdventure Tiles/WA_Exterior.png" width="800" height="1088"/>
+ </tileset>
+ <tileset firstgid="851" name="räum" tilewidth="32" tileheight="32" tilecount="1000" columns="25">
+  <image source="../Documents/Tilesets/WorkAdventure Tiles/WA_Room_Builder.png" width="800" height="1280"/>
+ </tileset>
+ <tileset firstgid="1851" name="sitzgelegenheiten" tilewidth="32" tileheight="32" tilecount="182" columns="13">
+  <image source="../Documents/Tilesets/WorkAdventure Tiles/WA_Seats.png" width="416" height="448"/>
+ </tileset>
+ <tileset firstgid="2033" name="Tische" tilewidth="32" tileheight="32" tilecount="270" columns="10">
+  <image source="../Documents/Tilesets/WorkAdventure Tiles/WA_Tables.png" width="320" height="864"/>
+ </tileset>
+ <tileset firstgid="2303" name="Möbel" tilewidth="32" tileheight="32" tilecount="156" columns="12">
+  <image source="../Documents/Tilesets/WorkAdventure Tiles/WA_Other_Furniture.png" width="384" height="416"/>
+ </tileset>
+ <tileset firstgid="2459" name="sonstig" tilewidth="32" tileheight="32" tilecount="110" columns="10">
+  <image source="../Documents/Tilesets/WorkAdventure Tiles/WA_Miscellaneous.png" width="320" height="352"/>
+ </tileset>
+ <tileset firstgid="2569" name="Samurai Champloo" tilewidth="32" tileheight="32" tilecount="4" columns="2">
+  <image source="apple-icon-72x72.png" width="72" height="72"/>
+ </tileset>
+ <layer id="1" name="Boden" width="65" height="65">
+  <data encoding="base64" compression="zlib">
+   eJztzqENADAMA7BoP/frHlEyOlxpMjB3naQAAAAAAAAAAAAAAAAAAD7X1/YDAOBlAJJCrU8=
+  </data>
+ </layer>
+ <layer id="2" name="Wände" width="65" height="65">
+  <data encoding="base64" compression="zlib">
+   eJztlstu00AUhl3bPAJJoUg8AU0RQbwAAiIBrxCpLbABwQKkLmhrrhtWRZC2UGDPgnJtQSxYcA+VeAHulwoUEOqCO235R54RJ1NjT4QTa8r5pE/HcVz7nN+daR2HYRiGYRiGYRiGYRiGYRiGYRiGYZgs2Ok5zqcU3eVlPVHj1DwnmETfaVmzNIOP6Dstbcyg7DvOVIoO+FlP1Dh9KWcwbGEGQ+h5gij2yJuaezzzDC5amMF5LYNjXv1n4Y1FnkHZXzjzv2Rg634QNfdushZmGshgMewH9N3/L2tB3w+ivBWxTx6HPfjuhHZ+xsL/D1Zhjk5YiKnIINiPOuuFzsF5KM71S0UevZauBbEfdMAVpKpj9bkET8KcNA/b/TAHmkm/pWtB7AdFuFarRfJZZHBBOq7lQI8rlv5dEPtBNcESmX/cr3/3FS0fG9dC2TADtd575LunOfSS721cC30GGXT7f/Y/VfV9QZ23cS0MGWRQlXtiRas0B3XexrVgsh9UyXpPqjauhdvo+Q68G1PvwfvwQcw16vihhRk8Qc9P4bOY+hy+gC9jrlHHryzM4DN6/gK/xtRv8Dv8EXONOv6ZYQbrG9CEfW5o1qzzQk1IK4NpzD2oOS3Vcd2F5mA+hezU7O9xrynZRwAP/OXee+FmuMWgbk14tspgBI7CUzEZKGgGBdiVUgZifpUB7ScKkcE2uN2g7kh4tsrgErwMr8RkUGriWlHzqwxoP1GIDAbgoEENEp6tMqjCR/L5Sb8HaXPUdYIj8DA8BA9C2k8Uw9IRgzpKfi7qPaoMXsM38C2ch++IzeYcZj4Lz8AxeBrSfpqNyuAXnIVzMgPHC30se9jghjaD65h5Ek7Aa/AqpP20BMy6FOZgHrbJ+YU+XAI/NCGDGu63Evdul/thh+cEy2Gb1k+r6MSzCrCLzI+eWrIWVssMiph/DRSZ1PXTIjbiWZtgCS7zWrsf6IhMaD8MwzAME8dvohPDdA==
+  </data>
+ </layer>
+ <layer id="3" name="Gegenstände auf Wänden" width="65" height="65">
+  <data encoding="base64" compression="zlib">
+   eJzt1TtOw1AQheGB4DimBkRJqHk01Ag2wJroWUPSgmjoAlSkQQoSYCh5iBqzCo5FIocbI+iMPf8nHd3ixpLPZCSbAQAAAAAAAAAAAKiLTmKWKIslpxdL6rqsrJScXqypa1dZLzm92FDXTWWr5ESzbCdFrmKzYfz7M8M//q4udpMit+p1N+52H3Sc3I3ir7u0QTOYttoxe1a3N+Ul6PgUf79r0h5M7Djfg33130t+3oPr1uwevDZsBqEs+PblM/DiQP9tT7vQH8ebfmSHvTxOZ3Ch7ufKQDlW91PlxNkMHtX9QUmVI3UP00Q3UZHch7pnyrujGeSm53AZVf021Uij2X3wRntvmfMZzLXN5pWWstCu+m3+lzPmYSNmAAAAAAAAauwTnkBPmw==
+  </data>
+ </layer>
+ <layer id="4" name="Gegenstände auf Gegenständen" width="65" height="65">
+  <data encoding="base64" compression="zlib">
+   eJzt0MEJgEAMBMD8JNH+P1ZhM3ZgHx6IXAnHcTOw5LubCAAAAAAAAIA5ZEVUjW4x1t72H4v/AADgd2bPqu62/cnvruraegAAAAAAAGb3Ai3KBxM=
+  </data>
+ </layer>
+</map>
