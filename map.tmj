@@ -878,19 +878,6 @@
          "tilecount":273,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":2,
-         "firstgid":2956,
-         "image":"..\/..\/..\/Downloads\/apple-icon-72x72.png",
-         "imageheight":72,
-         "imagewidth":72,
-         "margin":0,
-         "name":"Samurai Champloo",
-         "spacing":0,
-         "tilecount":4,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
