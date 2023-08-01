@@ -4,12 +4,32 @@
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJxjYBgFgxH8YKSt+sEEmKioHgAz\/AH3",
+         "data":"eJxjYBgFgxH8YKStemIBExKmFRClonoAP7wCIw==",
          "encoding":"base64",
          "height":15,
          "id":1,
          "name":"start",
          "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":12,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "compression":"zlib",
+         "data":"eJxjYBgFowA3YEXCQwEAAAzkABA=",
+         "encoding":"base64",
+         "height":15,
+         "id":14,
+         "name":"entryMap",
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":12,
@@ -164,7 +184,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":14,
+ "nextlayerid":15,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",

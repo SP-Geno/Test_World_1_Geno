@@ -86,7 +86,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"gameroom.tmj"
+                 "value":"gameroom.tmj#entryMap"
                 }],
          "type":"tilelayer",
          "visible":false,
