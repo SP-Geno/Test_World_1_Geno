@@ -40,7 +40,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":45,
          "x":0,
          "y":0
@@ -89,7 +89,7 @@
                  "value":"gameroom.tmj"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":45,
          "x":0,
          "y":0
@@ -132,7 +132,7 @@
          "name":"collisions",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":45,
          "x":0,
          "y":0
@@ -755,8 +755,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":65,
- "nextobjectid":20,
+ "nextlayerid":67,
+ "nextobjectid":22,
  "orientation":"orthogonal",
  "properties":[
         {
