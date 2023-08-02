@@ -4,7 +4,7 @@
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJxjYBgFgxH8YKStemJAIgsmpgUQpaJ6AI77BBY=",
+         "data":"eJxjYBgFgxG8YaStemJAKAsmpgXgpKJ6AEbLA6o=",
          "encoding":"base64",
          "height":15,
          "id":1,
@@ -18,7 +18,7 @@
         }, 
         {
          "compression":"zlib",
-         "data":"eJxjYBgFowA3SGRB4KEAAM5YATA=",
+         "data":"eJxjYBgFowA3CGVB4KEAALYoAQw=",
          "encoding":"base64",
          "height":15,
          "id":14,
@@ -38,7 +38,7 @@
         }, 
         {
          "compression":"zlib",
-         "data":"eJxjYBj6IJGFsJpgItSMgqEPAHdrAL0=",
+         "data":"eJxjYBj6IJSFsBp3ItSMgqEPAEf7AKU=",
          "encoding":"base64",
          "height":15,
          "id":13,
@@ -58,7 +58,7 @@
         }, 
         {
          "compression":"zlib",
-         "data":"eJxLZGFgSBzimBD4wQihcenFxyfGblqqx4ZB\/oHR6BifPdgAsjgxYQsTE2Ad+HjHhgFxhUB\/",
+         "data":"eJwLZWFgCB3imBB4wwihcenFxyfGblqqx4ZB\/oHR6BifPdgAsjgxYQsTY2Ed+HjHhgEf\/zlH",
          "encoding":"base64",
          "height":15,
          "id":2,
@@ -75,7 +75,7 @@
          "layers":[
                 {
                  "compression":"zlib",
-                 "data":"eJybwc7AMIMEPIFxFI9i+mFcaRBX+gQADsBnNw==",
+                 "data":"eJzrYWdg6CEBtzCO4lFMP4wrDeJKnwAfrF7H",
                  "encoding":"base64",
                  "height":15,
                  "id":3,
@@ -99,7 +99,7 @@
          "layers":[
                 {
                  "compression":"zlib",
-                 "data":"eJy9zl0KgkAYheEDSq1A+7lPsvuiui\/MTbmSUnfQElyWddU7MIIMI+mNAw8zfOfwMW0gffBFa99Dt+ksQmkZjr\/feEp6oUSFWv6Z6TYT+o3d\/+8UVrd\/Sn+O\/YXGmaNv\/h8hxgprbLC1835mujvHHikOnizB0XHGBVdPdsLNkeGB3JPd8QP8ZUM5",
+                 "data":"eJy9zkEKwjAQheEHutGqe0Xdt9juFfVSPUmt3qBH6LGqB9CN\/0CEEiKaTQMfE2ZehnQj6Y4HOnf\/Vi3zxCuiNmOpknRBjStuCvcs20bkLWtvfp3S+eyPyQ+xv9R\/hsjb\/yeYIsEMcyxcvz+z7NKzxgbbwGyF1LNDjiIwy7D3HHHCOTA74A351Eg9",
                  "encoding":"base64",
                  "height":15,
                  "id":4,
@@ -113,7 +113,7 @@
                 }, 
                 {
                  "compression":"zlib",
-                 "data":"eJxjYKAfiOQiX68nB2nqY0lUPwqGBwAAZQABGg==",
+                 "data":"eJxjYKAf8OUiX68tB2nqA0lUPwqGBwAAFtAA9g==",
                  "encoding":"base64",
                  "height":15,
                  "id":11,
@@ -137,7 +137,7 @@
          "layers":[
                 {
                  "compression":"zlib",
-                 "data":"eJxjYBgawIULt1wzBwNDCwfxZvUC1fYBcQYOPBWIpyGZNx3I3sUJYe8E0vxALMgJEQOpB4ktQFK\/Gk29JBBLo6nfgqR+K5C9DcpfCZRTBmJVToR79gLxPhz+w+WHkQoA1IgYIA==",
+                 "data":"eJxjYBgawIILt1w5BwNDBQfxZjUC1TYBcQwO3AnEXUjmdQPZ6zgh7LVAmhmIWTkhYiD1ILEpSOrno6nnBWJ+NPUrkNSvBLJXQflzgXLiQCzJiXDPRiDehMN\/uPwwUgEAoGsV+A==",
                  "encoding":"base64",
                  "height":15,
                  "id":7,
@@ -151,7 +151,7 @@
                 }, 
                 {
                  "compression":"zlib",
-                 "data":"eJxjYBgF5ABXrqFp9nAHAOIoAJ8=",
+                 "data":"eJxjYBgF5ABLrqFp9nAHAMA4AIc=",
                  "encoding":"base64",
                  "height":15,
                  "id":12,
@@ -165,7 +165,7 @@
                 }, 
                 {
                  "compression":"zlib",
-                 "data":"eJxjYBh5wI2LNDXKaOpVuLCLkaseG4ghwo2jABMAAMHXAnM=",
+                 "data":"eJxjYBh5wIqLNDXiaOoluLCLkaseGwggwo2jABMAAPd4Ae8=",
                  "encoding":"base64",
                  "height":15,
                  "id":9,
@@ -192,21 +192,8 @@
  "tileheight":32,
  "tilesets":[
         {
-         "columns":6,
-         "firstgid":1,
-         "image":"..\/..\/Tilesets\/WorkAdventure Tiles\/WA_Special_Zones.png",
-         "imageheight":64,
-         "imagewidth":192,
-         "margin":0,
-         "name":"WA_Special_Zones",
-         "spacing":0,
-         "tilecount":12,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
          "columns":25,
-         "firstgid":13,
+         "firstgid":1,
          "image":"..\/..\/Tilesets\/WorkAdventure Tiles\/WA_Room_Builder.png",
          "imageheight":1280,
          "imagewidth":800,
@@ -219,7 +206,7 @@
         }, 
         {
          "columns":16,
-         "firstgid":1013,
+         "firstgid":1001,
          "image":"..\/..\/Tilesets\/Stadt\/Castle2.png",
          "imageheight":512,
          "imagewidth":512,
@@ -232,7 +219,7 @@
         }, 
         {
          "columns":25,
-         "firstgid":1269,
+         "firstgid":1257,
          "image":"..\/..\/Tilesets\/WorkAdventure Tiles\/WA_Exterior.png",
          "imageheight":1088,
          "imagewidth":800,
@@ -245,7 +232,7 @@
         }, 
         {
          "columns":10,
-         "firstgid":2119,
+         "firstgid":2107,
          "image":"..\/..\/Tilesets\/WorkAdventure Tiles\/WA_Tables.png",
          "imageheight":864,
          "imagewidth":320,
@@ -258,7 +245,7 @@
         }, 
         {
          "columns":13,
-         "firstgid":2389,
+         "firstgid":2377,
          "image":"..\/..\/Tilesets\/WorkAdventure Tiles\/WA_Seats.png",
          "imageheight":448,
          "imagewidth":416,
@@ -271,7 +258,7 @@
         }, 
         {
          "columns":10,
-         "firstgid":2571,
+         "firstgid":2559,
          "image":"..\/..\/Tilesets\/WorkAdventure Tiles\/WA_Miscellaneous.png",
          "imageheight":352,
          "imagewidth":320,
@@ -284,7 +271,7 @@
         }, 
         {
          "columns":12,
-         "firstgid":2681,
+         "firstgid":2669,
          "image":"..\/..\/Tilesets\/WorkAdventure Tiles\/WA_Other_Furniture.png",
          "imageheight":416,
          "imagewidth":384,
