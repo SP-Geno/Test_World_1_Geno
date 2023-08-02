@@ -99,20 +99,6 @@
          "layers":[
                 {
                  "compression":"zlib",
-                 "data":"eJy9zkEKwjAQheEHutGqe0Xdt9juFfVSPUmt3qBH6LGqB9CN\/0CEEiKaTQMfE2ZehnQj6Y4HOnf\/Vi3zxCuiNmOpknRBjStuCvcs20bkLWtvfp3S+eyPyQ+xv9R\/hsjb\/yeYIsEMcyxcvz+z7NKzxgbbwGyF1LNDjiIwy7D3HHHCOTA74A351Eg9",
-                 "encoding":"base64",
-                 "height":15,
-                 "id":4,
-                 "name":"walls",
-                 "opacity":1,
-                 "type":"tilelayer",
-                 "visible":true,
-                 "width":12,
-                 "x":0,
-                 "y":0
-                }, 
-                {
-                 "compression":"zlib",
                  "data":"eJxjYKAf8OUiX68tB2nqA0lUPwqGBwAAFtAA9g==",
                  "encoding":"base64",
                  "height":15,
