@@ -4,7 +4,7 @@
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJxjYBgFo2D4AAAC0AAB",
+         "data":"eJxjYBgFgxH8YKStemIBExKmFRClonoAP7wCIw==",
          "encoding":"base64",
          "height":15,
          "id":1,
@@ -18,7 +18,7 @@
         }, 
         {
          "compression":"zlib",
-         "data":"eJxjYBgFo2D4AAAC0AAB",
+         "data":"eJxjYBgFowA3YEXCQwEAAAzkABA=",
          "encoding":"base64",
          "height":15,
          "id":14,
@@ -38,7 +38,7 @@
         }, 
         {
          "compression":"zlib",
-         "data":"eJxjYBgZIH6gHTAK6AIAt+gAYA==",
+         "data":"eJxjYBj6gG2gHTAKBg0AAA8YAAc=",
          "encoding":"base64",
          "height":15,
          "id":13,
@@ -58,7 +58,7 @@
         }, 
         {
          "compression":"zlib",
-         "data":"eJxjYBgFowAVyDBSRw0tQC4ajQ4AQSoBFQ==",
+         "data":"eJxjZmBgYB7imBD4wQihidVHyA50MZD5lKpnxqMeXR1IPyGMzRxCAKZegIWwWpAaasYfOXGNTR4ABxANKw==",
          "encoding":"base64",
          "height":15,
          "id":2,
@@ -75,7 +75,7 @@
          "layers":[
                 {
                  "compression":"zlib",
-                 "data":"eJxbwszAsIQEPApGAT0BrjSIK30CABUhDwI=",
+                 "data":"eJybwcbAMIMEPIFxFI9i+mFcaRBX+gQA7PRnIA==",
                  "encoding":"base64",
                  "height":15,
                  "id":3,
@@ -99,7 +99,7 @@
          "layers":[
                 {
                  "compression":"zlib",
-                 "data":"eJxjYWBgYAViNiBmgbJx0SA1QkAsTAK9h4F4AFJ7hgT1Z2hs\/p5BaD6t1YPcrwjESkCsDMQqQKwKxGpQcWQ5kFpDNGwCxKZAbIZFzgiIHdGwCxC7ArEbFjknIA5EwyFAHArEYVjkgoAYANf8Gs8=",
+                 "data":"eJxjYKA9mAvE84B4PhAvAOKFOMTIVU8I1EPxYFVfTySml\/qhDAACuh9H",
                  "encoding":"base64",
                  "height":15,
                  "id":4,
@@ -113,7 +113,7 @@
                 }, 
                 {
                  "compression":"zlib",
-                 "data":"eJxjYKAfWMhCR8tGwYgEAI1PAKY=",
+                 "data":"eJxjYKAfiOQkX68nO2nqY0lUPwqGBwAAXn8BFw==",
                  "encoding":"base64",
                  "height":15,
                  "id":11,
@@ -137,7 +137,7 @@
          "layers":[
                 {
                  "compression":"zlib",
-                 "data":"eJxjYBgaoIdloF0wCoYCAAA5WwCR",
+                 "data":"eJxjYBgawIUTt1wzOwNDCzvxZvUC1fYBcQYOPBWIpyGZNx3I3sUBYe8E0vxALMgBEQOpB4ktQFK\/Gk29JBBLo6nfgqR+K5C9DcpfCZRTBmJVDoR79gLxPhz+w+WHkQoAkGIX8g==",
                  "encoding":"base64",
                  "height":15,
                  "id":7,
@@ -151,7 +151,7 @@
                 }, 
                 {
                  "compression":"zlib",
-                 "data":"eJxjYBgF5IBelqFp9nAHAJzrASM=",
+                 "data":"eJxjYBgF5ABXzqFp9nAHAN9WAJ0=",
                  "encoding":"base64",
                  "height":15,
                  "id":12,
@@ -165,7 +165,7 @@
                 }, 
                 {
                  "compression":"zlib",
-                 "data":"eJxjYBh5oI+FNDXZaOpzWLCLkaseG1hChBtHASYAABscBUk=",
+                 "data":"eJxjYBh5wI2TNDXKaOpVOLGLkaseG4ghwo2jABMAALEGAmg=",
                  "encoding":"base64",
                  "height":15,
                  "id":9,
@@ -192,21 +192,34 @@
  "tileheight":32,
  "tilesets":[
         {
-         "columns":16,
+         "columns":6,
          "firstgid":1,
-         "image":"..\/..\/Tilesets\/Stadt\/Castle2.png",
-         "imageheight":512,
-         "imagewidth":512,
+         "image":"..\/..\/Tilesets\/WorkAdventure Tiles\/WA_Special_Zones.png",
+         "imageheight":64,
+         "imagewidth":192,
          "margin":0,
-         "name":"Castle2",
+         "name":"WA_Special_Zones",
          "spacing":0,
-         "tilecount":256,
+         "tilecount":12,
          "tileheight":32,
          "tilewidth":32
         }, 
         {
          "columns":25,
-         "firstgid":257,
+         "firstgid":13,
+         "image":"..\/..\/Tilesets\/WorkAdventure Tiles\/WA_Room_Builder.png",
+         "imageheight":1280,
+         "imagewidth":800,
+         "margin":0,
+         "name":"WA_Room_Builder",
+         "spacing":0,
+         "tilecount":1000,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":25,
+         "firstgid":1013,
          "image":"..\/..\/Tilesets\/WorkAdventure Tiles\/WA_Exterior.png",
          "imageheight":1088,
          "imagewidth":800,
@@ -219,7 +232,33 @@
         }, 
         {
          "columns":10,
-         "firstgid":1107,
+         "firstgid":1863,
+         "image":"..\/..\/Tilesets\/WorkAdventure Tiles\/WA_Tables.png",
+         "imageheight":864,
+         "imagewidth":320,
+         "margin":0,
+         "name":"WA_Tables",
+         "spacing":0,
+         "tilecount":270,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":13,
+         "firstgid":2133,
+         "image":"..\/..\/Tilesets\/WorkAdventure Tiles\/WA_Seats.png",
+         "imageheight":448,
+         "imagewidth":416,
+         "margin":0,
+         "name":"WA_Seats",
+         "spacing":0,
+         "tilecount":182,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":10,
+         "firstgid":2315,
          "image":"..\/..\/Tilesets\/WorkAdventure Tiles\/WA_Miscellaneous.png",
          "imageheight":352,
          "imagewidth":320,
@@ -232,7 +271,7 @@
         }, 
         {
          "columns":12,
-         "firstgid":1217,
+         "firstgid":2425,
          "image":"..\/..\/Tilesets\/WorkAdventure Tiles\/WA_Other_Furniture.png",
          "imageheight":416,
          "imagewidth":384,
